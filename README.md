@@ -8,12 +8,12 @@ python app.py
 
 打开浏览器，http://localhost:5000/
 
-# 自定义配置
+# 自定义输入框
 
 ## 网站
 
-path
+https://github.com/shizhan75/Shimbashi/blob/master/static/main.js#L81
 
 ## 服务器端
 
-path
+https://github.com/shizhan75/Shimbashi/blob/master/app.py#L17
